@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="24px" viewBox="0 0 23 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="22.8" height="24" rx="3"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22.8" height="24" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-OSBB_dashboard" transform="translate(-486.000000, -20.000000)">
+            <g id="Group-4" transform="translate(486.000000, 20.000000)">
+                <g id="Group-12-Copy-2" opacity="0.45" stroke="#124266" stroke-width="3">
+                    <use id="Rectangle-16" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                </g>
+                <path d="M8,6 L18,6" id="Path-4" stroke="#95AABA"></path>
+                <path d="M8,10 L18,10" id="Path-4-Copy" stroke="#95AABA"></path>
+                <circle id="Oval-3" stroke="#95AABA" fill="#D8D8D8" cx="5.5" cy="6" r="0.5"></circle>
+                <circle id="Oval-3-Copy" stroke="#95AABA" fill="#D8D8D8" cx="5.5" cy="10" r="0.5"></circle>
+                <g id="favorite-heart-button" transform="translate(8.000000, 14.137255)" fill="#95AABA">
+                    <g id="Capa_1">
+                        <g id="favorite">
+                            <path d="M3.5,6.4454902 L3.01,5.9554902 C1.19,4.3454902 0,3.2604902 0,1.9304902 C0,0.845490196 0.84,0.00549019608 1.925,0.00549019608 C2.52,0.00549019608 3.115,0.285490196 3.5,0.740490196 C3.885,0.285490196 4.48,0.00549019608 5.075,0.00549019608 C6.16,0.00549019608 7,0.845490196 7,1.9304902 C7,3.2604902 5.81,4.3454902 3.99,5.9554902 L3.5,6.4454902 L3.5,6.4454902 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

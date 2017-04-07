@@ -1,0 +1,15 @@
+{
+  "correct": {
+    "login": "admin@gmail.com",
+    "password": "1111"
+  },
+  "wrong": {
+    "login": "akmin@gmail.com",
+    "password": "2222"
+  },
+  "error": {
+    "login": "almin@gmail.com",
+    "password": "3333",
+    "error": "Invalid Email or Password"
+  }
+}

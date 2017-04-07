@@ -1,0 +1,151 @@
+.holder {
+    max-width: 950px;
+    height: 292px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25vh;
+    align-items: center;
+    margin: 0 auto;
+    z-index: 10;
+}
+
+.login-main section {
+    z-index: 2;
+}
+
+
+.recovery-alert {
+    display: block;
+    font-size: 14px;
+    color: #00a6ff;
+    margin: 25px 0 5px;
+}
+
+.login {
+    height: 355px;
+}
+
+.login-form {
+    width: 290px;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 4px;
+    border: solid 1px #e9e9e9;
+    text-align: center;
+    font-size: 14px;
+}
+
+.login-form p {
+    font-size: 12px;
+    color: #c1c1c1;
+}
+
+.login-form header, .recovery-notification header, .recovery-send-email header {
+    font-family: ProximaNovaBold, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 54px;
+    background-color: #f9f9f9;
+    border: solid 1px #e9e9e9;
+    color: #6e6e6e;
+    font-weight: 600;
+}
+
+.login-form input, .recovery-send-email input {
+    padding: 12px 15px;
+    width: 220px;
+    height: 14px;
+    border-radius: 4px;
+    border: solid 1px #e9e9e9;
+    color: #6e6e6e;
+    font-size: 14px;
+}
+
+.login-form input:focus, .recovery-send-email input:focus {
+    border: 1px solid #5aafee;
+    outline: none;
+    color: #2b2b2b;
+}
+
+.login-form input {
+    margin-top: 20px;
+}
+
+.login-form input.inputError {
+    border: 1px solid #C62828;
+}
+
+.recover-account {
+    border-bottom: 1px solid rgba(0, 165, 255, 0.6);
+    color: #00a6ff;
+    opacity: 0.6;
+}
+
+.login-button, .recovery-button {
+    margin: 20px auto 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 38px;
+    background-image: linear-gradient(to bottom, #6fd6ff, #00a6ff);
+    color: #fff;
+    border: none;
+    padding: 0;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+}
+
+.btn-disabled {
+    opacity: 0.45;
+    cursor: not-allowed !important;
+}
+
+.login-button:hover, .recovery-button:hover {
+    cursor: pointer;
+}
+
+.login-button:focus, .recovery-button:focus {
+    outline: none;
+}
+
+.recovery-notification {
+    display: none;
+    width: 290px;
+    height: 214px;
+    background-color: #fff;
+    border-radius: 4px;
+    border: solid 1px #e9e9e9;
+    text-align: center;
+    font-size: 14px;
+}
+
+.recovery-notification-main {
+    padding: 20px 38px 30px;
+    line-height: 1.57;
+    color: #6e6e6e;
+}
+
+.recovery-notification-add {
+    color: #00a6ff;
+    display: block;
+}
+
+.recovery-send-email {
+    display: none;
+    width: 290px;
+    height: 258px;
+    background-color: #fff;
+    border-radius: 4px;
+    border: solid 1px #e9e9e9;
+    text-align: center;
+    font-size: 14px;
+}
+
+.recovery-send-notification {
+    margin: 20px auto 10px;
+    width: 250px;
+    text-align: left;
+}

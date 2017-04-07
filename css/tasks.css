@@ -1,0 +1,322 @@
+.tasks {
+    max-width: 950px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    z-index: 2;
+}
+
+.search {
+    max-width: 100%;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #2f3942;
+    z-index: 4;
+    padding: 27px 40px 20px;
+    margin: 0 0 10px;
+}
+
+.search-ddl > li {
+    display: none;
+    margin: 10px 0 10px 0;
+    cursor: pointer;
+}
+
+.search-ddl.expanded > li {
+    display: block;
+}
+
+.search-ddl > li:first-child {
+    display: block;
+    margin: 0;
+}
+
+.search-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-field {
+    width: 80%;
+    height: 36px;
+    background-color: #ffffff;
+    border: 2px solid;
+    border-image-source: linear-gradient(to bottom, #6fd6ff 0%, #00a6ff 100%);
+    border-image-slice: 1;
+    font-family: ProximaNovaRegular, serif;
+    font-size: 14px;
+    line-height: 1.43;
+    color: #a7a7a7;
+    padding-left: 20px;
+}
+
+.search-button {
+    margin-left: 2%;
+    cursor: pointer;
+    font-family: ProximaNovaRegular, serif;
+    width: 137px;
+    height: 42px;
+    background-image: linear-gradient(to bottom, #6fd6ff, #00a6ff);
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.7px;
+    color: #ffffff;
+    outline: none;
+    display: flex;
+    justify-content: center;
+}
+
+.search-button svg {
+    margin-right: 8px;
+}
+
+.sort-tasks {
+    display: flex;
+    justify-content: flex-start;
+    min-height: 30px;
+    position: relative;
+}
+
+.sort-tasks section {
+    font-size: 14px;
+    padding: 5px 10px;
+    background-color: #fff;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.sort-tasks section span {
+    font-family: ProximaNovaRegular, serif;
+    font-size: 14px;
+    line-height: 1.43;
+    color: #2f3942;
+}
+
+.sort-tasks ul {
+    min-width: 135px;
+    padding: 0;
+    margin: 0;
+}
+
+.sort-tasks section.first-drop-down, .sort-tasks section.second-drop-down {
+    padding: 0;
+    position: absolute;
+    box-shadow: 0 1px 3px 0 rgba(111, 107, 107, 0.5);
+}
+
+.sort-tasks section.second-drop-down {
+    left: 190px;
+}
+
+.drop-down-icon {
+    width: 9px;
+    height: 6px;
+    background: url("../assets/chevron-right.png") no-repeat;
+    background-size: 100% 100%;
+    margin-left: 8px;
+    padding: 1px;
+}
+
+.tasks-content {
+    z-index: 3;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tasks-list {
+    width: 37%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+section.tasks-content article.task-desc {
+    width: 57%;
+    height: 100%;
+    padding: 35px 40px 195px;
+    background-color: #fff;
+    box-shadow: 5px 2px 7px 0 rgba(111, 107, 107, 0.5);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.task {
+    width: 97%;
+    height: 103px;
+    background-color: #fff;
+    border-radius: 6px;
+    border: solid 1px #e5e5e5;
+    margin-bottom: 6px;
+    display: flex;
+}
+
+.task.active {
+    width: 100%;
+    border-radius: 0;
+    box-shadow: 0 1px 4px 6px rgba(111, 107, 107, 0.5);
+}
+
+.task .rating {
+    width: 38px;
+    height: 100%;
+    border-right: 2px solid #ebf3f6;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.task.active .rating {
+    padding-left: 6px;
+}
+
+.task .rating figure {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin: 5px 0 0 0;
+    background-color: #a7a7a7;
+}
+
+.task .rating figure.active {
+    background-color: #e54b00;
+}
+
+.task-main {
+    width: 100%;
+    padding: 6px 13px 20px 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.task-main p {
+    text-align: left;
+    font-size: 12px;
+    line-height: 1.67;
+}
+
+.task.active .task-main {
+    padding-right: 17px;
+}
+
+.task-main p.date {
+    font-family: ProximaNovaLight, serif;
+    font-size: 10px;
+    line-height: 1.3;
+    text-align: right;
+    color: #6d8193;
+}
+
+.task-main p.status {
+    color: #6e6e6e;
+}
+
+.task-main p.status span {
+    display: flex;
+    align-items: center;
+}
+
+.task-main .task-name {
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    color: #4a4a4a;
+    line-height: 1.42;
+}
+
+.task-main .tags {
+    font-weight: 600;
+    color: #00a6ff;
+}
+
+.tasks-list div.tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    max-height: 15px;
+    width: 100px;
+}
+
+.tasks-list div.tag {
+    width: initial;
+    margin: 0 10px 0 0;
+    font-size: 12px;
+    background-color: #fff;
+    max-height: 14px;
+    border: none;
+    padding: 0;
+}
+
+.task-main .status.active span:after {
+    width: 11px;
+    height: 11px;
+    border: 1px solid #00a6ff;
+    border-radius: 50%;
+    content: '\2713';
+    color: #00a6ff;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.task-main .svg.radial-progress {
+    display: none;
+}
+
+.tasks-list div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (max-width: 915px) {
+    .tasks-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .tasks-list {
+        width: 100%;
+    }
+
+    .task-main .svg.radial-progress {
+        zoom: 0.7;
+        position: absolute;
+        right: 15%;
+        display: block;
+    }
+
+    .task-wrapper .priority, .task-name-desc .task-name {
+        display: none;
+    }
+
+    section.task-name-desc {
+        width: 100%;
+    }
+
+    .task.active {
+        width: 97%;
+        border-radius: 6px 6px 0 0;
+        box-shadow: none;
+    }
+
+    .task.active .rating {
+        padding-left: 0;
+    }
+
+    .task.active .task-main {
+        padding-right: 13px;
+    }
+}

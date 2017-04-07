@@ -1,0 +1,343 @@
+@font-face {
+    font-family: ProximaNovaRegular;
+    src: local('?'), url('../../fonts/ProximaNova/Proxima%20Nova%20Regular.otf') format('opentype')
+}
+
+@font-face {
+    font-family: ProximaNovaExtraBold;
+    src: local('?'), url('../../fonts/ProximaNova/Proxima Nova Extrabold.otf') format('opentype')
+}
+
+@font-face {
+    font-family: ProximaNovaBold;
+    src: local('?'), url('../../fonts/ProximaNova/Proxima Nova Bold.otf') format('opentype')
+}
+
+@font-face {
+    font-family: ProximaNovaRegularItalic;
+    src: local('?'), url('../../fonts/ProximaNova/Proxima Nova Regular Italic.otf') format('opentype')
+}
+
+body {
+    margin: 0;
+    font-family: ProximaNovaRegular, serif;
+    font-size: 14px;
+}
+
+body a {
+    text-decoration: none;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+.main-bg {
+    position: absolute;
+    width: 100%;
+    height: 800px;
+    background: url("../../images/blueHouses.png") no-repeat;
+    background-size: cover;
+    opacity: 0.74;
+    z-index: 1;
+}
+
+.bg-cover {
+    position: absolute;
+    width: 100%;
+    height: 800px;
+    opacity: 0.4;
+    background-color: #0979b4;
+    z-index: 0;
+}
+
+.main {
+    padding-top: 110px;
+    max-width: 950px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: #fff;
+    margin: 0 auto;
+    z-index: 2;
+}
+
+.main section, main aside {
+    z-index: 3;
+}
+
+.articles {
+    max-width: 635px;
+}
+
+.add-text {
+    width: 605px;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #b6b6b6;
+    border: none;
+    padding: 20px 15px 70px;
+}
+
+.add-new-ads label {
+    color: #ffffff;
+}
+
+.add-new-ads input[type="radio"] {
+    margin: 0 40px 0 10px;
+}
+
+.chose-type-ad {
+    display: flex;
+    align-items: center;
+    margin: 0 0 13px 5px;
+}
+
+input[type="radio"] {
+    width: 13px;
+    height: 13px;
+    margin: 0;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+}
+
+input[type="radio"]:after {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    cursor: pointer;
+    height: 13px;
+    width: 13px;
+    left: 0;
+    top: 0;
+    border-radius: 50%;
+    background: #fff;
+    content: '';
+    border: 1px solid #124266;
+}
+
+input[type="radio"]:checked:after {
+    background: #fff;
+    content: '\2022';
+    color: #124266;
+    font-size: 28px;
+}
+
+.add-new-ad {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 20px 0 45px;
+}
+
+.add-new-ads span {
+    display: inline-block;
+    color: #124266;
+    margin: 0 25px 0 5px;
+}
+
+.pin {
+    width: 22px;
+    height: 19px;
+    background: url("img/skrepka.svg") no-repeat;
+}
+
+.add-button {
+    width: 190px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #c24535;
+    font-family: ProximaNovaRegular, serif;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    border: none;
+}
+
+.pin:hover, .add-new-ads span:hover, .add-button:hover, .participant-name:hover, .participation-button:hover {
+    cursor: pointer;
+}
+
+.dashboard {
+    max-width: 635px;
+    height: 100%;
+    padding: 20px 40px 40px;
+    background-color: #fff;
+    border-radius: 4px;
+    border: solid 1px #e9e9e9;
+}
+
+.post {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.ad {
+    width: 495px;
+}
+
+.ad p {
+    color: #6e6e6e;
+    margin: 3px 0 0;
+}
+
+.name {
+    font-family: ProximaNovaBold, serif;
+    color: #000;
+}
+
+.when {
+    font-family: ProximaNovaRegularItalic, serif;
+}
+
+.posted-ad {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+.posted-event {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+.posted-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 110px;
+    height: 110px;
+    border-radius: 4px;
+    border: solid 1px #e9e9e9;
+    margin-right: 18px;
+}
+
+.posted-photo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+}
+
+.text-of-ad {
+    width: 495px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    padding: 11px 9px 9px 16px;
+}
+
+.text-of-event {
+    width: 495px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: solid 1px #5aafee;
+    padding: 16px 30px 20px 16px;
+    line-height: 1.43;
+}
+
+.ad p.participants {
+    margin: 15px 0 0;
+}
+
+.participant-name {
+    margin: 5px 7px 0 0;
+    border-radius: 3px;
+    background-color: #5aafee;
+    display: inline-block;
+    padding: 1px 5px;
+    font-size: 12px;
+    color: #fff;
+}
+
+.who-created {
+    width: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.event-name {
+    font-family: ProximaNovaBold, serif;
+    color: #5aafee;
+}
+
+.profile-photo {
+    width: 40px;
+    height: 40px;
+    background: black;
+    border-radius: 50%;
+}
+
+.circle {
+    width: 10px;
+    height: 10px;
+    background: url("img/circle.svg") no-repeat;
+    margin: 20px 0 0;
+}
+
+.participation-button {
+    position: absolute;
+    bottom: 0;
+    right: 28px;
+    width: 44px;
+    height: 44px;
+    background-color: #c24535;
+    border: none;
+    border-radius: 50%;
+    font-size: 12px;
+    color: #fff;
+    outline: none;
+    font-family: ProximaNovaBold, serif;
+    letter-spacing: 1px;
+}
+
+.post.added-event {
+    position: relative;
+    padding-bottom: 22px;
+}
+
+.global-ads {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    color: #ffffff;
+    margin-top: 30px;
+}
+
+.global-ads article {
+    width: 230px;
+    padding: 0 20px 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    background-color: #205d75;
+    box-shadow: 0 0 11px 0 rgba(0, 0, 0, 0.5);
+    text-align: center;
+    line-height: 1.43;
+}
+
+.global-ads article h3 {
+    font-family: ProximaNovaExtraBold, serif;
+    font-size: 14px;
+}
+
+.global-ads article p {
+    font-family: ProximaNovaRegular, serif;
+    width: 209px;
+    margin: 20px auto 0;
+}
+
+.global-ads article p.global-ads__first {
+    width: 185px;
+}
+
+.global-ads article p a {
+    color: #fff;
+    text-decoration: underline;
+}

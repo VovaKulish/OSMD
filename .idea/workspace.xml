@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25bac3c4-07ec-4750-ad3f-acbc1c0f526c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="OSMD" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="currentTask.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/currentTask.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4114">
+              <caret line="242" column="26" lean-forward="false" selection-start-line="242" selection-start-column="26" selection-end-line="242" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/votes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/base.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3315">
+              <caret line="195" column="27" lean-forward="false" selection-start-line="195" selection-start-column="27" selection-end-line="195" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tasks.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/tasks.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5236">
+              <caret line="308" column="16" lean-forward="false" selection-start-line="308" selection-start-column="4" selection-end-line="308" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/recover/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/header.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="45" column="9" lean-forward="false" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+              <folding>
+                <element signature="e#47#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taskLayout.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/layouts/taskLayout.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#15#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taskView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/tasks/taskView/taskView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="46" column="49" lean-forward="false" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dash</find>
+      <find>.sort-tasks</find>
+      <find>.sort-tasks section.second-drop-down</find>
+      <find>.tasks</find>
+      <find>se</find>
+      <find>task-main</find>
+      <find>.task-main .svg.radial-progress</find>
+      <find>.task-main</find>
+      <find>.who</find>
+      <find>reporter</find>
+      <find>.add-photo-icon input</find>
+      <find>att</find>
+      <find>.create-task-content article.task-desc figure.add-photo-icon input</find>
+      <find>background</find>
+      <find>profile-photo</find>
+      <find>input</find>
+      <find>in</find>
+      <find>radio</find>
+      <find>.changing-vote p</find>
+      <find>.search-button</find>
+      <find>.tasks-content</find>
+      <find>.popup</find>
+      <find>.tasks-list</find>
+      <find>.task.active {</find>
+      <find>.holder .login-logo</find>
+      <find>margin-bott</find>
+      <find>section.tasks-content article.task-desc</find>
+      <find>.task.active</find>
+      <find>-13px</find>
+      <find>415</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/components/tooltip/tooltip.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/components/priority/priorityStar.js" />
+        <option value="$PROJECT_DIR$/routes/addTask/addTask.js" />
+        <option value="$PROJECT_DIR$/components/priority/index.js" />
+        <option value="$PROJECT_DIR$/layouts/indexLayout.js" />
+        <option value="$PROJECT_DIR$/css/rating.css" />
+        <option value="$PROJECT_DIR$/css/tooltip.css" />
+        <option value="$PROJECT_DIR$/css/tag.css" />
+        <option value="$PROJECT_DIR$/css/autocomplete.css" />
+        <option value="$PROJECT_DIR$/components/attachments/attachment.js" />
+        <option value="$PROJECT_DIR$/components/attachments/index.js" />
+        <option value="$PROJECT_DIR$/Pages/OSBB/pages/tasks/tasks.css" />
+        <option value="$PROJECT_DIR$/css/votes.css" />
+        <option value="$PROJECT_DIR$/components/currentTask/index.js" />
+        <option value="$PROJECT_DIR$/routes/tasks/components/taskList.js" />
+        <option value="$PROJECT_DIR$/routes/tasks/components/index.js" />
+        <option value="$PROJECT_DIR$/layouts/taskLayout.js" />
+        <option value="$PROJECT_DIR$/css/questions.css" />
+        <option value="$PROJECT_DIR$/components/questionary/index.js" />
+        <option value="$PROJECT_DIR$/components/tags/index.js" />
+        <option value="$PROJECT_DIR$/routes/recover/recover.js" />
+        <option value="$PROJECT_DIR$/css/recover.css" />
+        <option value="$PROJECT_DIR$/css/login.css" />
+        <option value="$PROJECT_DIR$/components/taskSearch/index.js" />
+        <option value="$PROJECT_DIR$/components/taskSearch/searchDropDown.js" />
+        <option value="$PROJECT_DIR$/routes/main/modules/index.js" />
+        <option value="$PROJECT_DIR$/routes/login/index.js" />
+        <option value="$PROJECT_DIR$/routes/tasks/modules/index.js" />
+        <option value="$PROJECT_DIR$/routes/tasks/components/taskItem.js" />
+        <option value="$PROJECT_DIR$/routes/tasks/taskView/index.js" />
+        <option value="$PROJECT_DIR$/components/news/newsItem.js" />
+        <option value="$PROJECT_DIR$/components/news/index.js" />
+        <option value="$PROJECT_DIR$/routes/addTask/index.js" />
+        <option value="$PROJECT_DIR$/css/attachment.css" />
+        <option value="$PROJECT_DIR$/css/addTask.css" />
+        <option value="$PROJECT_DIR$/routes/layouts/indexLayout.js" />
+        <option value="$PROJECT_DIR$/components/announcements/announcement.js" />
+        <option value="$PROJECT_DIR$/routes/main/index.js" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/components/votingResults/index.js" />
+        <option value="$PROJECT_DIR$/components/announcements/index.js" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/routes/tasks/taskView/taskView.js" />
+        <option value="$PROJECT_DIR$/routes/layouts/taskLayout.js" />
+        <option value="$PROJECT_DIR$/css/tasks.css" />
+        <option value="$PROJECT_DIR$/components/header.js" />
+        <option value="$PROJECT_DIR$/css/base.css" />
+        <option value="$PROJECT_DIR$/css/currentTask.css" />
+        <option value="$PROJECT_DIR$/components/votes/index.js" />
+        <option value="$PROJECT_DIR$/routes/recover/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="207" />
+    <option name="y" value="142" />
+    <option name="width" value="1595" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taskView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recover" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProximaNova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="votingResults" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="votes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OSMD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="OSMD">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="OSMD">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="routes">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="OSMD">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="routes">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FU" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Frontend\OSMD\routes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Frontend\OSMD\assets" />
+      <recent name="D:\Frontend\OSMD\css" />
+      <recent name="D:\Frontend\OSMD\components\icons" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25bac3c4-07ec-4750-ad3f-acbc1c0f526c" name="Default" comment="" />
+      <created>1485452884203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1485452884203</updated>
+      <workItem from="1485452886261" duration="2691000" />
+      <workItem from="1485459942825" duration="3550000" />
+      <workItem from="1485464743327" duration="208000" />
+      <workItem from="1485464964658" duration="360000" />
+      <workItem from="1485520942981" duration="3203000" />
+      <workItem from="1485526100627" duration="790000" />
+      <workItem from="1485526906750" duration="433000" />
+      <workItem from="1485527352074" duration="158000" />
+      <workItem from="1485527524905" duration="371000" />
+      <workItem from="1485527912950" duration="147000" />
+      <workItem from="1485528345405" duration="77000" />
+      <workItem from="1485530305363" duration="309000" />
+      <workItem from="1485608161483" duration="4350000" />
+      <workItem from="1485695405879" duration="2976000" />
+      <workItem from="1485775249488" duration="1350000" />
+      <workItem from="1485776612151" duration="1820000" />
+      <workItem from="1485778471145" duration="215000" />
+      <workItem from="1485778699666" duration="10953000" />
+      <workItem from="1485867890751" duration="585000" />
+      <workItem from="1485868490221" duration="1669000" />
+      <workItem from="1485870231719" duration="248000" />
+      <workItem from="1485870491744" duration="124000" />
+      <workItem from="1485870634919" duration="1212000" />
+      <workItem from="1485871871591" duration="939000" />
+      <workItem from="1485879383612" duration="496000" />
+      <workItem from="1485879890997" duration="111000" />
+      <workItem from="1485880011751" duration="502000" />
+      <workItem from="1485880523702" duration="125000" />
+      <workItem from="1485880659617" duration="299000" />
+      <workItem from="1485880969319" duration="80000" />
+      <workItem from="1485881059454" duration="141000" />
+      <workItem from="1485881212374" duration="55000" />
+      <workItem from="1485881277179" duration="102000" />
+      <workItem from="1485881388949" duration="109000" />
+      <workItem from="1485881507823" duration="716000" />
+      <workItem from="1485882234581" duration="420000" />
+      <workItem from="1485882664364" duration="1065000" />
+      <workItem from="1485884862097" duration="234000" />
+      <workItem from="1485885771257" duration="313000" />
+      <workItem from="1485886094691" duration="90000" />
+      <workItem from="1485886194863" duration="37000" />
+      <workItem from="1485886243039" duration="31000" />
+      <workItem from="1485903362278" duration="826000" />
+      <workItem from="1485904199394" duration="103000" />
+      <workItem from="1485904315908" duration="391000" />
+      <workItem from="1485904718078" duration="81000" />
+      <workItem from="1486049549081" duration="4698000" />
+      <workItem from="1486069153986" duration="3408000" />
+      <workItem from="1486127168324" duration="211000" />
+      <workItem from="1486127389454" duration="750000" />
+      <workItem from="1486128991743" duration="4577000" />
+      <workItem from="1486144665701" duration="347000" />
+      <workItem from="1486145023330" duration="88000" />
+      <workItem from="1486145774716" duration="308000" />
+      <workItem from="1486146093077" duration="91000" />
+      <workItem from="1486165518228" duration="850000" />
+      <workItem from="1486177112306" duration="639000" />
+      <workItem from="1486204395763" duration="2258000" />
+      <workItem from="1486210410624" duration="57000" />
+      <workItem from="1486210478649" duration="1694000" />
+      <workItem from="1486212183156" duration="1120000" />
+      <workItem from="1486213382178" duration="2306000" />
+      <workItem from="1486309140353" duration="1754000" />
+      <workItem from="1486325157745" duration="632000" />
+      <workItem from="1486402006064" duration="1407000" />
+      <workItem from="1486556315976" duration="2840000" />
+      <workItem from="1486656684767" duration="1558000" />
+      <workItem from="1486658253725" duration="127000" />
+      <workItem from="1486658391552" duration="74000" />
+      <workItem from="1486658475758" duration="68000" />
+      <workItem from="1486658554559" duration="319000" />
+      <workItem from="1486658885798" duration="29000" />
+      <workItem from="1486658925158" duration="554000" />
+      <workItem from="1486659490173" duration="33000" />
+      <workItem from="1486659535910" duration="87000" />
+      <workItem from="1486659634005" duration="393000" />
+      <workItem from="1486660038275" duration="279000" />
+      <workItem from="1486660327633" duration="199000" />
+      <workItem from="1486994994953" duration="148000" />
+      <workItem from="1486995156399" duration="108000" />
+      <workItem from="1486995274350" duration="65000" />
+      <workItem from="1486995349333" duration="69000" />
+      <workItem from="1486995428659" duration="140000" />
+      <workItem from="1486995578904" duration="52000" />
+      <workItem from="1486995640653" duration="560000" />
+      <workItem from="1486996212524" duration="702000" />
+      <workItem from="1486996925209" duration="939000" />
+      <workItem from="1486997874379" duration="312000" />
+      <workItem from="1487083962176" duration="14000" />
+      <workItem from="1487505610195" duration="1768000" />
+      <workItem from="1487507486600" duration="70000" />
+      <workItem from="1487507567256" duration="205000" />
+      <workItem from="1487507784205" duration="531000" />
+      <workItem from="1487508331950" duration="1824000" />
+      <workItem from="1487515137189" duration="331000" />
+      <workItem from="1487515478540" duration="2449000" />
+      <workItem from="1487546057735" duration="506000" />
+      <workItem from="1487546576838" duration="223000" />
+      <workItem from="1487546809695" duration="1417000" />
+      <workItem from="1487549044477" duration="305000" />
+      <workItem from="1487549361153" duration="297000" />
+      <workItem from="1487549668340" duration="213000" />
+      <workItem from="1487549891810" duration="112000" />
+      <workItem from="1487550014871" duration="174000" />
+      <workItem from="1487550198799" duration="310000" />
+      <workItem from="1487550519313" duration="495000" />
+      <workItem from="1487551025534" duration="96000" />
+      <workItem from="1487551132498" duration="161000" />
+      <workItem from="1487551304574" duration="276000" />
+      <workItem from="1487551590846" duration="68000" />
+      <workItem from="1487551937149" duration="691000" />
+      <workItem from="1487552639995" duration="517000" />
+      <workItem from="1487594473930" duration="1695000" />
+      <workItem from="1487596844189" duration="1376000" />
+      <workItem from="1487611093378" duration="117000" />
+      <workItem from="1487611221603" duration="92000" />
+      <workItem from="1487611323698" duration="65000" />
+      <workItem from="1487611398987" duration="126000" />
+      <workItem from="1487611536817" duration="276000" />
+      <workItem from="1487611822706" duration="434000" />
+      <workItem from="1487612266332" duration="161000" />
+      <workItem from="1487612437999" duration="47000" />
+      <workItem from="1487612495955" duration="144000" />
+      <workItem from="1487612649779" duration="382000" />
+      <workItem from="1487613043651" duration="976000" />
+      <workItem from="1487614029670" duration="127000" />
+      <workItem from="1487614166482" duration="102000" />
+      <workItem from="1487614278404" duration="99000" />
+      <workItem from="1487614386977" duration="402000" />
+      <workItem from="1487614799402" duration="96000" />
+      <workItem from="1487614906191" duration="102000" />
+      <workItem from="1487615018509" duration="80000" />
+      <workItem from="1487632303164" duration="1005000" />
+      <workItem from="1487683621496" duration="599000" />
+      <workItem from="1487777423763" duration="670000" />
+      <workItem from="1487778104565" duration="85000" />
+      <workItem from="1487778199708" duration="1006000" />
+      <workItem from="1487779445065" duration="117000" />
+      <workItem from="1487779572515" duration="80000" />
+      <workItem from="1487779662097" duration="234000" />
+      <workItem from="1487779907414" duration="1384000" />
+      <workItem from="1487783494721" duration="1581000" />
+      <workItem from="1487785087682" duration="166000" />
+      <workItem from="1487785263268" duration="91000" />
+      <workItem from="1487785363897" duration="86000" />
+      <workItem from="1487785460056" duration="71000" />
+      <workItem from="1487785541756" duration="724000" />
+      <workItem from="1487786275601" duration="1036000" />
+      <workItem from="1487787325371" duration="788000" />
+      <workItem from="1487788125144" duration="169000" />
+      <workItem from="1487788306405" duration="272000" />
+      <workItem from="1487788591596" duration="159000" />
+      <workItem from="1487788761665" duration="327000" />
+      <workItem from="1487789101053" duration="93000" />
+      <workItem from="1487789203798" duration="556000" />
+      <workItem from="1487789772613" duration="405000" />
+      <workItem from="1487790189975" duration="240000" />
+      <workItem from="1487790441545" duration="385000" />
+      <workItem from="1487790838103" duration="602000" />
+      <workItem from="1487854657083" duration="508000" />
+      <workItem from="1487855180060" duration="59000" />
+      <workItem from="1487855249776" duration="280000" />
+      <workItem from="1487855541043" duration="446000" />
+      <workItem from="1487855999360" duration="2089000" />
+      <workItem from="1487858194979" duration="123000" />
+      <workItem from="1487858327982" duration="135000" />
+      <workItem from="1487858473988" duration="478000" />
+      <workItem from="1487858979080" duration="1046000" />
+      <workItem from="1487860036934" duration="329000" />
+      <workItem from="1487860376912" duration="639000" />
+      <workItem from="1487868139423" duration="1357000" />
+      <workItem from="1487951541747" duration="106000" />
+      <workItem from="1487951659453" duration="440000" />
+      <workItem from="1487952110892" duration="109000" />
+      <workItem from="1487952229507" duration="135000" />
+      <workItem from="1487953219818" duration="1541000" />
+      <workItem from="1488024023605" duration="227000" />
+      <workItem from="1488043591349" duration="1329000" />
+      <workItem from="1488111894604" duration="1711000" />
+      <workItem from="1488113772497" duration="1277000" />
+      <workItem from="1488115337084" duration="1402000" />
+      <workItem from="1488116758754" duration="267000" />
+      <workItem from="1488117037738" duration="318000" />
+      <workItem from="1488119035562" duration="10000" />
+      <workItem from="1488128431765" duration="379000" />
+      <workItem from="1488128827807" duration="100000" />
+      <workItem from="1488128941195" duration="144000" />
+      <workItem from="1488129099837" duration="162000" />
+      <workItem from="1488129274855" duration="938000" />
+      <workItem from="1488130226872" duration="961000" />
+      <workItem from="1488131463814" duration="126000" />
+      <workItem from="1488139840180" duration="427000" />
+      <workItem from="1488140282756" duration="66000" />
+      <workItem from="1488140603753" duration="32000" />
+      <workItem from="1488141666551" duration="635000" />
+      <workItem from="1488149564498" duration="213000" />
+      <workItem from="1488149788232" duration="111000" />
+      <workItem from="1488149909528" duration="77000" />
+      <workItem from="1488149998142" duration="87000" />
+      <workItem from="1488150099022" duration="782000" />
+      <workItem from="1488150894159" duration="35000" />
+      <workItem from="1488150940931" duration="1061000" />
+      <workItem from="1488215349966" duration="1816000" />
+      <workItem from="1488217226702" duration="349000" />
+      <workItem from="1488217588336" duration="898000" />
+      <workItem from="1488218596897" duration="668000" />
+      <workItem from="1488219304138" duration="800000" />
+      <workItem from="1488237043349" duration="5000" />
+      <workItem from="1488283679028" duration="253000" />
+      <workItem from="1488283977871" duration="361000" />
+      <workItem from="1488284358775" duration="1015000" />
+      <workItem from="1488285393307" duration="158000" />
+      <workItem from="1488285588363" duration="312000" />
+      <workItem from="1488303595562" duration="3000" />
+      <workItem from="1488319072086" duration="2000" />
+      <workItem from="1488548239534" duration="734000" />
+      <workItem from="1488549015612" duration="321000" />
+      <workItem from="1488549347589" duration="193000" />
+      <workItem from="1488549553840" duration="196000" />
+      <workItem from="1488549792282" duration="810000" />
+      <workItem from="1488551358493" duration="87000" />
+      <workItem from="1488551461046" duration="64000" />
+      <workItem from="1488551549947" duration="72000" />
+      <workItem from="1488551632831" duration="269000" />
+      <workItem from="1488551919483" duration="356000" />
+      <workItem from="1488552294746" duration="403000" />
+      <workItem from="1488552710689" duration="1033000" />
+      <workItem from="1488553766363" duration="433000" />
+      <workItem from="1488554215702" duration="486000" />
+      <workItem from="1488554714460" duration="701000" />
+      <workItem from="1488556469727" duration="193000" />
+      <workItem from="1488556677128" duration="354000" />
+      <workItem from="1488557048232" duration="716000" />
+      <workItem from="1488558709026" duration="644000" />
+      <workItem from="1488559363969" duration="416000" />
+      <workItem from="1488559812556" duration="125000" />
+      <workItem from="1488635443897" duration="1919000" />
+      <workItem from="1488649925774" duration="263000" />
+      <workItem from="1488669334221" duration="889000" />
+      <workItem from="1488670319046" duration="1353000" />
+      <workItem from="1488671723376" duration="1920000" />
+      <workItem from="1488673969086" duration="1140000" />
+      <workItem from="1488675154573" duration="296000" />
+      <workItem from="1488675767188" duration="238000" />
+      <workItem from="1488747651066" duration="2115000" />
+      <workItem from="1488749965432" duration="608000" />
+      <workItem from="1488802435314" duration="1410000" />
+      <workItem from="1488807056286" duration="8210000" />
+      <workItem from="1488899652001" duration="318000" />
+      <workItem from="1488899997539" duration="317000" />
+      <workItem from="1488900355889" duration="416000" />
+      <workItem from="1488901127067" duration="215000" />
+      <workItem from="1488901386797" duration="262000" />
+      <workItem from="1488901679435" duration="187000" />
+      <workItem from="1488901930481" duration="620000" />
+      <workItem from="1488902770488" duration="811000" />
+      <workItem from="1488940167451" duration="2069000" />
+      <workItem from="1489011418950" duration="11000" />
+      <workItem from="1489018756374" duration="192000" />
+      <workItem from="1489065125976" duration="1373000" />
+      <workItem from="1489068961127" duration="1910000" />
+      <workItem from="1489186454854" duration="3815000" />
+      <workItem from="1489191000251" duration="7970000" />
+      <workItem from="1489274548715" duration="803000" />
+      <workItem from="1489275363850" duration="643000" />
+      <workItem from="1489276653373" duration="133000" />
+      <workItem from="1489276797732" duration="746000" />
+      <workItem from="1489277618016" duration="191000" />
+      <workItem from="1489277820851" duration="1241000" />
+      <workItem from="1489354445881" duration="1000" />
+      <workItem from="1489424940799" duration="3549000" />
+      <workItem from="1489533020626" duration="2746000" />
+      <workItem from="1489538550684" duration="1763000" />
+      <workItem from="1489542641731" duration="373000" />
+      <workItem from="1489543026261" duration="281000" />
+      <workItem from="1489543356811" duration="391000" />
+      <workItem from="1489543766932" duration="1247000" />
+      <workItem from="1489545032279" duration="363000" />
+      <workItem from="1489545599766" duration="42000" />
+      <workItem from="1489545740765" duration="54000" />
+      <workItem from="1489606657120" duration="833000" />
+      <workItem from="1489607542437" duration="553000" />
+      <workItem from="1489608107881" duration="417000" />
+      <workItem from="1489608535749" duration="429000" />
+      <workItem from="1489608977887" duration="200000" />
+      <workItem from="1489609188059" duration="3207000" />
+      <workItem from="1489612488282" duration="1763000" />
+      <workItem from="1489614809605" duration="496000" />
+      <workItem from="1489615322636" duration="955000" />
+      <workItem from="1489616578740" duration="1487000" />
+      <workItem from="1489618300192" duration="1572000" />
+      <workItem from="1489619894007" duration="1062000" />
+      <workItem from="1489620970195" duration="262000" />
+      <workItem from="1489621337035" duration="446000" />
+      <workItem from="1489621844872" duration="271000" />
+      <workItem from="1489631135217" duration="594000" />
+      <workItem from="1489631746159" duration="343000" />
+      <workItem from="1489632105014" duration="2667000" />
+      <workItem from="1489634796656" duration="1970000" />
+      <workItem from="1489636784824" duration="1006000" />
+      <workItem from="1489757533391" duration="4550000" />
+      <workItem from="1489765139637" duration="1221000" />
+      <workItem from="1489767703022" duration="390000" />
+      <workItem from="1489768125209" duration="1749000" />
+      <workItem from="1489769889551" duration="660000" />
+      <workItem from="1489770566569" duration="642000" />
+      <workItem from="1489771220081" duration="184000" />
+      <workItem from="1489771468436" duration="484000" />
+      <workItem from="1489771964935" duration="225000" />
+      <workItem from="1489772342534" duration="909000" />
+      <workItem from="1489773315611" duration="5727000" />
+      <workItem from="1489779287892" duration="109000" />
+      <workItem from="1489780671064" duration="359000" />
+      <workItem from="1489801158221" duration="3109000" />
+      <workItem from="1489806554594" duration="935000" />
+      <workItem from="1489807580564" duration="258000" />
+      <workItem from="1490027170372" duration="10000" />
+      <workItem from="1490027528539" duration="2303000" />
+      <workItem from="1490029869364" duration="915000" />
+      <workItem from="1490030828005" duration="109000" />
+      <workItem from="1490030993536" duration="56000" />
+      <workItem from="1490031068811" duration="353000" />
+      <workItem from="1490031433795" duration="378000" />
+      <workItem from="1490031886656" duration="177000" />
+      <workItem from="1490032076114" duration="397000" />
+      <workItem from="1490032533597" duration="608000" />
+      <workItem from="1490033161416" duration="171000" />
+      <workItem from="1490033355255" duration="302000" />
+      <workItem from="1490033680081" duration="691000" />
+      <workItem from="1490034403551" duration="116000" />
+      <workItem from="1490034530694" duration="72000" />
+      <workItem from="1490034621471" duration="584000" />
+      <workItem from="1490035218100" duration="1067000" />
+      <workItem from="1490036304664" duration="117000" />
+      <workItem from="1490036441355" duration="376000" />
+      <workItem from="1490036828678" duration="2018000" />
+      <workItem from="1490038866211" duration="3001000" />
+      <workItem from="1490041879602" duration="171000" />
+      <workItem from="1490047451734" duration="764000" />
+      <workItem from="1490048247294" duration="238000" />
+      <workItem from="1490048516089" duration="481000" />
+      <workItem from="1490049035143" duration="913000" />
+      <workItem from="1490049959402" duration="1293000" />
+      <workItem from="1490051341361" duration="1956000" />
+      <workItem from="1490056371555" duration="1623000" />
+      <workItem from="1490058710210" duration="549000" />
+      <workItem from="1490059275411" duration="243000" />
+      <workItem from="1490060054221" duration="1038000" />
+      <workItem from="1490097293964" duration="195000" />
+      <workItem from="1490097509870" duration="802000" />
+      <workItem from="1490098334243" duration="96000" />
+      <workItem from="1490099158985" duration="1021000" />
+      <workItem from="1490103502912" duration="971000" />
+      <workItem from="1490191337195" duration="691000" />
+      <workItem from="1490192510243" duration="519000" />
+      <workItem from="1490193053979" duration="603000" />
+      <workItem from="1490204197546" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="278195000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="207" y="142" width="1595" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20423892" sideWeight="0.45362562" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33964366" sideWeight="0.5021075" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20423892" sideWeight="0.5463744" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33964366" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20423892" sideWeight="0.5398671" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33964366" sideWeight="0.5021075" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.551495" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33964366" sideWeight="0.49789253" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20423892" sideWeight="0.44850498" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31557924" sideWeight="0.51328903" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/recover/index.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/components/tags/tag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/questionary/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/tags/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="112" column="36" lean-forward="false" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/taskSearch/searchDropDown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/taskSearch/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/OSBB/pages/main-page/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/OSBB/pages/main-page/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/OSBB/pages/dashboard/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5406">
+          <caret line="342" column="1" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="342" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/OSBB/pages/dashboard/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="116" column="7" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="116" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/item_photo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/profile.svg" />
+    <entry file="file://$PROJECT_DIR$/assets/circle.svg" />
+    <entry file="file://$PROJECT_DIR$/routes/login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/icons/profileIcon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-438">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/announcements/participant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/announcements/attachment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/news/news.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/news/newsItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/news/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/attachment.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/addTask/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="215" column="0" lean-forward="false" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/icons/tasksIcon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/layouts/indexLayout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/announcementEditor/editor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1594">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/announcementEditor/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/announcements/announcements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/addTask.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="206" column="21" lean-forward="false" selection-start-line="206" selection-start-column="21" selection-end-line="206" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/questions.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="132" column="19" lean-forward="false" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/votes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5185">
+          <caret line="305" column="0" lean-forward="false" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/main/modules/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/tasks/components/taskItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/tasks/components/taskList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/votingResults/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="67" column="48" lean-forward="false" selection-start-line="67" selection-start-column="48" selection-end-line="67" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/announcements/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/tasks/components/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/tasks/modules/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3481">
+          <caret line="50" column="18" lean-forward="false" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/tasks/taskView/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/announcements/announcement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="83" column="16" lean-forward="true" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/recover.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="45" column="9" lean-forward="false" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="e#47#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/layouts/taskLayout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/tasks/taskView/taskView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="46" column="49" lean-forward="false" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/tasks.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="308" column="16" lean-forward="false" selection-start-line="308" selection-start-column="4" selection-end-line="308" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="195" column="27" lean-forward="false" selection-start-line="195" selection-start-column="27" selection-end-line="195" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/currentTask.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4114">
+          <caret line="242" column="26" lean-forward="false" selection-start-line="242" selection-start-column="26" selection-end-line="242" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/votes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/recover/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

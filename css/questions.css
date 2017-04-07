@@ -1,0 +1,29 @@
+.possible-questions-holder {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.delete-question {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: #fff;
+    border-radius: 50%;
+    border: solid 2px #31c2cf;
+    right: 0;
+    top: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.create-task-content article .delete-question span {
+    color: #31c2cf;
+    font-size: 14px;
+}
+
+.questionary {
+    display: flex;
+    flex-direction: column;
+}

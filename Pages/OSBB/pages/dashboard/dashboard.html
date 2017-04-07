@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+<figure class="main-bg"></figure>
+<figure class="bg-cover"></figure>
+<main class="main">
+    <section class="articles">
+        <article class="add-new-ads">
+            <article class="chose-type-ad">
+                <label for="ad">Оголошення</label>
+                <input id="ad" type="radio" name="ad-type"/>
+                <label for="event">Подія</label>
+                <input id="event" type="radio" name="ad-type"/>
+            </article>
+            <input class="add-text" placeholder="додайте текст оголошення" type="text"/>
+            <article class="add-new-ad">
+                <figure class="pin"></figure>
+                <span>Завантажте фото</span>
+                <button class="add-button">Додати</button>
+            </article>
+        </article>
+        <article class="dashboard">
+            <section class="post downloaded-photos">
+                <article class="who-created">
+                    <figure class="profile-photo"></figure>
+                    <figure class="circle"></figure>
+                    <figure class="circle"></figure>
+                    <figure class="circle"></figure>
+                    <figure class="circle"></figure>
+                    <figure class="circle"></figure>
+                </article>
+                <article class="ad">
+                    <p class="what-done"><span class="name">Дмитро Дашко</span> завантажив <span
+                            class="number-of-photos">3</span> нові фото</p>
+
+                    <p class="when">25 хвилин тому</p>
+                    <section class="posted-ad">
+                        <figure class="posted-photo">
+                            <img src="img/item_photo.jpg" alt=""/>
+                        </figure>
+                        <figure class="posted-photo">
+                            <img src="img/item_photo.jpg" alt=""/>
+                        </figure>
+                        <figure class="posted-photo">
+                            <img src="img/item_photo.jpg" alt=""/>
+                        </figure>
+                    </section>
+                </article>
+            </section>
+            <section class="post added-ad">
+                <article class="who-created">
+                    <figure class="profile-photo"></figure>
+                    <figure class="circle"></figure>
+                    <figure class="circle"></figure>
+                    <figure class="circle"></figure>
+                </article>
+                <article class="ad">
+                    <p class="what-done"><span class="name">Артем Рісухін</span> створив об’яву</p>
+
+                    <p class="when">46 хвилин тому</p>
+                    <section class="posted-ad">
+                        <figure class="text-of-ad">
+                            <p>Народ! Кому потрібний старий холодильник Nord? Віддаю безкоштовно!</p>
+
+                            <p>Телефонуйте 063 718 3313</p>
+                        </figure>
+                    </section>
+                </article>
+            </section>
+            <section class="post added-event">
+                <article class="who-created">
+                    <figure class="profile-photo"></figure>
+                </article>
+                <article class="ad">
+                    <p class="what-done"><span class="name">Лера Федюшичева</span> створила подію
+                        <span class="event-name"> Прикрашання під’їзду 28 грудня</span></p>
+
+                    <p class="when">20 грудня 2016</p>
+                    <section class="posted-event">
+                        <figure class="text-of-event">
+                            <p>Усім привіт! хочу прикрасити наш під’їзд, приєднуйтесь! починаємо
+                                28 грудня о 10 ранку. не забудьте гірлянди!</p>
+
+                            <p class="participants">учасники:</p>
+                            <a href=""><span class="participant-name">Maria Kolomoets</span></a>
+                            <a href=""><span class="participant-name">Артем Коломоєць</span></a>
+                            <a href=""><span class="participant-name">Дмитро Дашко</span></a>
+                            <a href=""><span class="participant-name">Олена Крайняк</span></a>
+                            <a href=""><span class="participant-name">Kateryna Dashko</span></a>
+                        </figure>
+                    </section>
+                </article>
+                <button class="participation-button">Піду</button>
+            </section>
+        </article>
+    </section>
+    <aside class="global-ads">
+        <article>
+            <h3>Шановні мешканці ОСББ 39!</h3>
+
+            <p class="global-ads__first">Нагадуємо, що з 1.02.2017 починають діяти нові тарифи на водопостачання та
+                водовідведення - 8.25 грн/куб м.</p>
+        </article>
+        <article>
+            <h3>Шановні мешканці ОСББ 39!</h3>
+
+            <p>В нашому будинку запрацювала мережа інтернет-провайдера GTS.
+                Подробиці тарифів та послуг провайдера шукайте на сайті <a href="">www.gts.dp.ua</a>.
+                Перші півроку діють пільгові тарифи для нових користувачів.</p>
+        </article>
+    </aside>
+</main>
+</body>
+</html>

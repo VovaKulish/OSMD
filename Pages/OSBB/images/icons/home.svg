@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="28px" viewBox="0 0 27 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 22</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.650985054   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="22.8" height="24" rx="3"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22.8" height="24" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-OSBB_dashboard" transform="translate(-292.000000, -19.000000)">
+            <g id="Group-22" filter="url(#filter-1)" transform="translate(294.000000, 21.000000)">
+                <g id="Group-15" opacity="0.45" transform="translate(7.000000, 5.000000)" font-size="12" font-family="ProximaNova-Regular, Proxima Nova" fill="#124266" font-weight="normal">
+                    <text id="H">
+                        <tspan x="0" y="11">H</tspan>
+                    </text>
+                </g>
+                <use id="Rectangle-16" stroke="#205D75" mask="url(#mask-3)" stroke-width="3" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

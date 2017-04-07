@@ -1,0 +1,27 @@
+.tag {
+    border-radius: 5px;
+    line-height: 20px;
+    max-width: 100px;
+    background-color: #eff;
+    border: solid 1px #31c2cf;
+    padding: 3px 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 5px 5px 0;
+}
+
+.create-task-content article .tag span {
+    font-size: 12px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #31c2cf;
+}
+
+.create-task-content article .tag span.tag-name {
+    margin-right: 10px;
+}

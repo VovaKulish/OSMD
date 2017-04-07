@@ -1,0 +1,236 @@
+@font-face {
+    font-family: ProximaNovaRegular;
+    src: local('?'), url('../../fonts/ProximaNova/Proxima Nova Regular.otf') format('opentype')
+}
+
+@font-face {
+    font-family: ProximaNovaSemiBold;
+    src: local('?'), url('../../fonts/ProximaNova/Proxima Nova Semibold.otf') format('opentype')
+}
+
+@font-face {
+    font-family: ProximaNovaExtraBold;
+    src: local('?'), url('../../fonts/ProximaNova/Proxima Nova Extrabold.otf') format('opentype')
+}
+
+body {
+    margin: 0;
+    font-family: ProximaNovaRegular, serif;
+    font-size: 14px;
+}
+
+body a {
+    text-decoration: none;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+.main-bg {
+    position: absolute;
+    width: 100%;
+    height: 800px;
+    background: url("../../images/blueHouses.png") no-repeat;
+    background-size: cover;
+    opacity: 0.74;
+    z-index: 1;
+}
+
+.bg-cover {
+    position: absolute;
+    width: 100%;
+    height: 800px;
+    opacity: 0.4;
+    background-color: #0979b4;
+    z-index: 0;
+}
+
+.createtask {
+    padding-top: 110px;
+    max-width: 950px;
+    height: 757px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: #fff;
+    margin: 0 auto;
+    z-index: 2;
+}
+
+.aside-line {
+    width: 32px;
+    height: 100%;
+    background-color: #2f3942;
+    z-index: 3;
+}
+
+.create-task-content {
+    width: 100%;
+    height: 93.4%;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    z-index: 3;
+    padding: 30px 45px 20px 35px;
+}
+
+.create-task-content article, .create-task-header {
+    margin-bottom: 25px;
+}
+
+.create-task-header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.create-task-header h1 {
+    margin: 0 36% 0 0;
+    font-family: ProximaNovaSemiBold, Serif;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.21;
+    letter-spacing: 0.5px;
+    color: #205d75;
+}
+
+.create-task-header span {
+    font-size: 12px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #6e6e6e;
+}
+
+.create-task-content article {
+    display: flex;
+    align-items: center;
+}
+
+.create-task-content article.task-desc, .create-task-content article.answers {
+    align-items: flex-start;
+}
+
+.create-task-content article span {
+    font-family: ProximaNovaSemiBold, Serif;
+    color: #2f3942;
+}
+
+.fields-desc {
+    width: 22%;
+    display: flex;
+    align-items: center;
+}
+
+.fields-desc figure {
+    width: 11px;
+    height: 11px;
+    background-color: #00a6ff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 7px;
+}
+
+.fields-desc figure:hover, .rating > figure:hover ~ figure, .add-task:hover, .task-desc svg:hover {
+    cursor: pointer;
+}
+
+.fields-desc figure span {
+    font-family: ProximaNovaSemiBold, Serif;
+    font-size: 8px;
+    color: #ffffff;
+}
+
+.rating {
+    display: flex;
+    align-items: center;
+}
+
+.rating figure {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: orangered;
+    margin-right: 12px;
+}
+
+.rating > figure:hover ~ figure {
+    background-color: #c3c3c3;
+}
+
+.create-task-content article input {
+    width: 100%;
+    height: 30px;
+    border: solid 0.5px #dbdbdb;
+    outline: none;
+    padding-left: 10px;
+}
+
+.create-task-content article input:focus {
+    box-shadow: 0 0 2px 0 #00a6ff;
+    border: solid 0.5px #f7f7f7;
+}
+
+.create-task-content article.task-desc input {
+    padding: 0 0 178px 10px;
+}
+
+.create-task-content article.answers input {
+    width: 100%;
+}
+
+.answers .fields-desc {
+    width: 17.9%;
+}
+
+.add-answer-fields {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+.add-answer-fields a span {
+    border-bottom: solid 2px #2f3942;
+}
+
+.add-answer-fields input {
+    margin-bottom: 10px;
+}
+
+.add-task {
+    margin: 0 auto;
+    width: 152px;
+    height: 35px;
+    background-image: linear-gradient(to bottom, #bcbaba, #ababab);
+    border: none;
+    font-family: ProximaNovaSemiBold, Serif;
+    font-size: 12px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+    outline: none;
+}
+
+.task-desc .fields-desc, .priority .fields-desc {
+    width: 17.9%;
+}
+
+.add-task-desc {
+    width: 80.7%;
+}
+
+.task-desc svg {
+    margin: 13px 0 0;
+}
+

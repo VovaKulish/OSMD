@@ -1,0 +1,51 @@
+@font-face {
+    font-family: ProximaNovaRegular;
+    src: local('?'), url('../fonts/ProximaNova/Proxima%20Nova%20Regular.otf') format('opentype')
+}
+
+body {
+    margin: 0;
+    height: 50px;
+    width: 100%;
+    font-family: ProximaNovaRegular, serif;
+}
+
+body a {
+    text-decoration: none;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    max-width: 910px;
+    padding: 0 20px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.main .logo {
+    width: 98px;
+    height: 36px;
+}
+
+.main__left-side a{
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin-right: 35px;
+}
+
+.main__left-side a.create-task {
+    fill: yellow;
+}
+
+
+.main__left-side, .main__right-side {
+    display: flex;
+    align-items: center;
+}

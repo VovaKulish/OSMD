@@ -1,0 +1,48 @@
+.svg.radial-progress {
+    position: relative;
+    display: inline-block;
+    width: 131px;
+    height: 131px;
+}
+
+.radial-progress svg {
+    position: absolute;
+    transform: rotateZ(-90deg);
+}
+
+.radial-progress span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 131px;
+    height: 131px;
+    font-size: 36px;
+    color: #00a6ff;
+}
+
+.radial-progress circle {
+    stroke-width: 2em;
+    fill: transparent;
+    transform: rotate(0.1deg);
+}
+
+.radial-progress circle.radial-progress-background {
+    stroke: #00a6ff;
+}
+
+.radial-progress circle.radial-progress-cover {
+    stroke: #DEDEDE;
+    stroke-width: 2.01em;
+}
+
+.radial-progress circle.radial-progress-center {
+    fill: #fff;
+}
+
+.radial-fill {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

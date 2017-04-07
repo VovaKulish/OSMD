@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Main Page</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+<figure class="main-bg"></figure>
+<figure class="bg-cover"></figure>
+<main class="main">
+    <section>
+        <figure class="logo"></figure>
+    </section>
+    <section>
+        <form class="login-form">
+            <header>ВХІД ДО АКАУНТУ</header>
+            <input onfocus="if(this.value == 'Email') { this.value = ''; }" onblur="if(this.value=='')this.value = 'Email';" value="Email" type="email"/>
+            <input onfocus="if(this.value == 'Пароль') { this.value = ''; }" onblur="if(this.value=='')this.value = 'Пароль';" value="Пароль" type="text"/>
+            <button class="login-button">Увійти</button>
+            <p>Забули <a class="recover-account" href="">логін</a> або <a class="recover-account" href="">пароль</a>?</p>
+        </form>
+    </section>
+</main>
+</body>
+</html>

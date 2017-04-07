@@ -1,0 +1,339 @@
+#Group-4 tspan {
+    font-size: 8px;
+}
+
+.createtask {
+    padding-top: 30px;
+    max-width: 950px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: #fff;
+    margin: 0 auto;
+    z-index: 2;
+}
+
+.aside-line {
+    width: 32px;
+    min-height: 757px;
+    height: 100%;
+    background-color: #2f3942;
+    z-index: 3;
+}
+
+.create-task-content {
+    width: 100%;
+    min-height: 700px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    z-index: 3;
+    padding: 30px 45px 20px 35px;
+}
+
+.create-task-content article, .create-task-header {
+    margin-bottom: 25px;
+}
+
+.create-task-header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: relative;
+}
+
+.create-task-header h1 {
+    margin: 0 36% 0 0;
+    font-family: ProximaNovaSemiBold, Serif;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.21;
+    letter-spacing: 0.5px;
+    color: #205d75;
+}
+
+.create-task-header span {
+    font-size: 12px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #6e6e6e;
+}
+
+.create-task-content article {
+    display: flex;
+    align-items: baseline;
+    position: relative;
+}
+
+.create-task-content article.keywords {
+    align-items: center;
+}
+
+.create-task-content article.task-desc, .create-task-content article.answers {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+}
+
+section article.task-desc {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    box-shadow: none;
+}
+
+.priority section.fields-desc, .priority section.rating, .priority section.tooltip {
+    background-color: #fff;
+}
+
+.create-task-content article span {
+    font-family: ProximaNovaSemiBold, Serif;
+    color: #2f3942;
+    font-size: 13px;
+}
+
+.fields-desc {
+    width: 22%;
+    display: flex;
+    align-items: center;
+}
+
+.question-vote .fields-desc {
+    width: 18%;
+}
+
+.fields-desc figure {
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 7px;
+    background-color: #00a6ff;
+}
+
+.fields-desc figure:hover, .rating > figure:hover ~ figure, .add-task:hover, .task-desc svg:hover, .tag-close:hover, .tag-autocomplete ul li:hover, .create-task-content article .attachment span:hover, .add-answer-fields a span:hover, .delete-question:hover {
+    cursor: pointer;
+}
+
+.create-task-content article input {
+    width: 100%;
+    height: 30px;
+    border: solid 0.5px #dbdbdb;
+    outline: none;
+    padding-left: 10px;
+}
+
+.create-task-content article.question-vote input {
+    width: 101%;
+}
+
+.question-field {
+    width: 80%;
+}
+
+.create-task-content article input:focus, .create-task-content article textarea:focus {
+    box-shadow: 0 0 2px 0 #00a6ff;
+    border: solid 0.5px #f7f7f7;
+}
+
+.create-task-content article.answers input {
+    width: 100%;
+}
+
+.answers .fields-desc, .task-desc .fields-desc, .new-task .fields-desc {
+    width: 17.9%;
+}
+
+.add-answer-fields {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    position: relative;
+}
+
+.add-answer-fields a span {
+    border-bottom: solid 2px #2f3942;
+}
+
+.add-answer-fields input {
+    margin-bottom: 10px;
+}
+
+.add-task {
+    margin: 0 auto;
+    width: 152px;
+    height: 35px;
+    background-image: linear-gradient(to bottom, #bcbaba, #ababab);
+    border: none;
+    font-family: ProximaNovaSemiBold, Serif;
+    font-size: 12px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+    outline: none;
+}
+
+.add-task:disabled {
+    background-image: none;
+}
+
+.task-desc-name {
+    width: 81%;
+}
+
+.priority .fields-desc {
+    width: 22%;
+}
+
+.add-task-desc {
+    width: 82%;
+}
+
+.add-task-desc textarea {
+    width: 99%;
+    border: solid 0.5px #dbdbdb;
+    outline: none;
+    min-height: 180px;
+}
+
+.drop-down-tags {
+    width: 80.8%;
+    height: 50%;
+    z-index: 100;
+    background-color: #fff;
+}
+
+.keywords .fields-desc, .add-task .fields-desc {
+    width: 17.8%;
+}
+
+.tags-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.create-task-content article.priority {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.tooltip:hover .tooltip-desc {
+    display: block;
+}
+
+.attachments {
+    display: flex;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.create-task-content article .attachment span {
+    color: #31c2cf;
+    border-bottom: 2px solid #31c2cf;
+}
+
+.attachment-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.progress-bar {
+    border: none;
+    max-width: 178px;
+}
+
+.progress-bar .percent {
+    height: 8px;
+    border-radius: 5px;
+    background-color: #31c2cf;
+    margin-left: 10px;
+}
+
+.add-answer-fields a span:hover {
+    color: #31c2cf;
+    border-bottom: solid 2px #31c2cf;
+}
+
+.create-task-content article input.inputError, .create-task-content article textarea.inputError{
+    border: 1px solid #C62828;
+}
+
+@media (max-width: 770px) {
+
+    .create-task-content article input {
+        width: 98%;
+        height: 50px;
+    }
+
+    .create-task-content article.answers input {
+        height: 30px;
+    }
+
+    .create-task-content {
+        padding: 0 20px 20px;
+    }
+
+    .create-task-header {
+        flex-direction: column;
+    }
+
+    .create-task-header h1 {
+        margin: 40px auto 0;
+    }
+
+    .create-task-header span {
+        position: absolute;
+        top: 20px;
+        right: 0;
+    }
+
+    .create-task-content article.task-desc, .create-task-content article.answers, .create-task-content article {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .fields-desc{
+        margin-bottom: 5px;
+        width: 100%;
+    }
+
+    .drop-down-tags, .question-field, .add-task-desc, .keywords .fields-desc, .task-desc .fields-desc, .question-vote .fields-desc, .answers .fields-desc, .task-desc-name, .new-task .fields-desc {
+        width: 100%;
+    }
+
+    .create-task-content article.task-desc input, .create-task-content article.question-vote input {
+        width: 98%;
+    }
+
+    .add-answer-fields {
+        width: 60%;
+    }
+
+    .aside-line {
+        min-height: 811px;
+    }
+}
+
+@media (max-width: 400px) {
+    .create-task-content article.task-desc input, .create-task-content article.question-vote input, .add-answer-fields  {
+        width: 94%;
+    }
+
+    .aside-line {
+        min-height: 870px;
+    }
+}
